@@ -159,6 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Joann Vuong
 Justin Majetich - [Github](https://github.com/justinmajetich) / [Twitter]((https://twitter.com/JustinMajetich)
 Mitchell Moscovics - [Github](https://github.com/mmoscovics) / 
+Malcolm Iheremelam
+Dutchess Feni
 
 ## License
 Public Domain. No copy write protection. 
